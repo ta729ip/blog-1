@@ -15,3 +15,8 @@ hexo new page "une"
 ```
 hexo clean && hexo deploy
 ```
+
+確認
+```
+npx hexo server
+```
